@@ -1,0 +1,9 @@
+.swift-cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.venv/
+results/
+.mplconfig/
+*.pyc
